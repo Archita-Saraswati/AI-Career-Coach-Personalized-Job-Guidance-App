@@ -2,6 +2,8 @@
 
 A modern, AI-powered career coaching platform built using cutting-edge technologies like **Next.js**, **Neon DB**, **Tailwind CSS**, **Prisma**, **Inngest**, **ShadCN UI**, and **Generative AI**.
 
+🔗 **Live Website:** [prepai.vercel.app](https://prepai-dxw2zjahz-archita-saraswatis-projects.vercel.app)
+
 > Empower your career journey with intelligent guidance and sleek UI — blazing fast, scalable, and beautiful. 🚀🔥
 
 ---
